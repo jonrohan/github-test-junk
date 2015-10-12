@@ -27,7 +27,7 @@ Remote branch: (default origin)
 
 # Font Magician [![Build Status][ci-img]][ci]
 
-<img align="right" width="135" height="95" src="http://postcss.github.io/postcss/logo-leftp.png" title="Philosopher’s stone, logo of PostCSS">
+<img align="right" width="100" height="100" src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" title="Philosopher’s stone, logo of PostCSS">
 
 [Font Magician] is a [PostCSS] plugin that magically generates all of your `@font-face` rules. Never write a `@font-face` rule again.
 
