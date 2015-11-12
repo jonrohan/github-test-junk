@@ -41,3 +41,8 @@ Just use the **font** and **font-family** properties as if they were magic.
 This repository is funded and maintained by Arkency. Check out our other [open-source projects](https://github.com/arkency).
 
 You can also [hire us](http://arkency.com) or [read our blog](http://blog.arkency.com).
+
+- Show plan/seats and card type
+- Show raw status text
+- Fix `full_refund?` check
+- ~~WIP – Clean up `Stafftools::User::BillingHistoryView`~~
