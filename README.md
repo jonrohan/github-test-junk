@@ -45,4 +45,4 @@ You can also [hire us](http://arkency.com) or [read our blog](http://blog.arkenc
 - Show plan/seats and card type
 - Show raw status text
 - Fix `full_refund?` check
-- ~~WIP – Clean up `Stafftools::User::BillingHistoryView` Clean up `Stafftools::User::BillingHistoryView` Clean up `Stafftools::User::BillingHistoryView` Clean up `Stafftools::User::BillingHistoryView`~~
+- ~~WIP – Clean up `Stafftools::User::BillingHistoryView` Clean up `Stafftools::User::BillingHistoryView` Clean up `Stafftools::User::BillingHistoryView` [read our blog](http://blog.arkency.com) Clean up `Stafftools::User::BillingHistoryView`~~
