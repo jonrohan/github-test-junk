@@ -46,3 +46,10 @@ You can also [hire us](http://arkency.com) or [read our blog](http://blog.arkenc
 - Show raw status text
 - Fix `full_refund?` check
 - ~~WIP – Clean up `Stafftools::User::BillingHistoryView` Clean up `Stafftools::User::BillingHistoryView` Clean up `Stafftools::User::BillingHistoryView` [read our blog](http://blog.arkency.com) Clean up `Stafftools::User::BillingHistoryView`~~
+
+```css
+.markdown-body code::before, .markdown-body code::after, .markdown-body tt::before, .markdown-body tt::after {
+    letter-spacing: -0.2em;
+    content: "\00a0";
+}
+```
