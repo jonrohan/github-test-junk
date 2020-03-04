@@ -33,7 +33,7 @@ Remote branch: (default origin)
 
 Just use the **font** and **font-family** properties as if they were magic.
 
-## About
+# About
 
 <img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="left">
 
