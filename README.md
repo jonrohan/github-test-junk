@@ -4,6 +4,12 @@ A repository used to test github.com edge cases, and branches
 
 <img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="right">
 <img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="left">
+<img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="right">
+<img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="left">
+<img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="right">
+<img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="left">
+<img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="right">
+<img src="https://avatars1.githubusercontent.com/u/54012?v=3&s=460" alt="Tig Icon" height="200" align="left">
 ## Installation
 
 ```
