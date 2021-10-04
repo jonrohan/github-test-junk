@@ -53,3 +53,10 @@ You can also [hire us](http://arkency.com) or [read our blog](http://blog.arkenc
     content: "\00a0";
 }
 ```
+
+
+<picture>
+  <source srcset="foo-dark.png" media="(prefers-color-scheme: dark)" />
+  <source srcset="foo-light.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="foo-light.png" />
+</picture>
