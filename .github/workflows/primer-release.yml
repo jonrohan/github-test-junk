@@ -1,0 +1,14 @@
+name: Primer release pull request
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_pr:
+        description: 'Link to changesets pull request in primer'
+        required: true
+        type: string
+
+jobs:
+  my_job:
+    name: deploy to staging
+    runs-on: ubuntu-22.04
